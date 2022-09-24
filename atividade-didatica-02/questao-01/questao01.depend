@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1662660316 source:/home/aluno/Documentos/questoes-atv-02/questao01/main.cpp
+	<iostream>
+	<cmath>
+

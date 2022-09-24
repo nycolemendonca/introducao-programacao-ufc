@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1662053713 source:/home/aluno/Documentos/atividade-didatica-01/questao-02/main.cpp
+	<iostream>
+	<locale.h>
+
